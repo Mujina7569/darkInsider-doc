@@ -1,4 +1,6 @@
 site_name: Dark Insider Role-play Community
+site_description: Dark Insider Role-play Community Documentation
+site_author: mujina7560
 theme:
   name: material
   logo: 
@@ -66,3 +68,12 @@ nav:
       # - 'คุโมะ': 'mission.md'
       # - 'NPC': 'mission.md'
       # - 'บันทึกลับของหน่วยข่าวกรอง': 'mission.md'
+
+extra:
+  generator: true
+  # social: 
+  # - icon: fontawesome/brands/discord
+  #   link: #
+
+copyright:
+  2024 Dark Insider เนื้อหาในเว็บเป็นเพียงเรื่องที่แต่งขึ้น เพื่อใช้สำหรับการโรลเพลย์เท่านั้น ไม่มีส่วนเกี่ยวข้องกับบุคคล หรือสถานที่จริงใดๆทั้งสิ้น
