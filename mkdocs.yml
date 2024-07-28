@@ -1,0 +1,67 @@
+site_name: Dark Insider Role-play Community
+theme:
+  name: material
+  logo: 
+  font:
+    text: Krub
+    code: Roboto Mono
+  palette:
+    scheme: slate
+    primary: black
+    accent: purple
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+markdown_extensions:
+  - toc:
+      permalink: true
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+nav:
+  - Home: 'index.md'
+  - 'กฏการอยู่ร่วมกัน': 'rules.md'
+  - 'จุนซุย':
+    - 'เกี่ยวกับจุนซุย': 'junsui.md'
+    - 'ไมนด์': 'mind.md'
+    - 'คลาสต่างๆ': 'classes.md'
+    - 'เขตการควบคุม': 'departments.md'
+    - 'ระบบเลื่อนขั้นจุนซุย': 'ranks.md'
+  - 'อินไซด์เดอร์':
+    - 'เกี่ยวกับอินไซด์เดอร์': 'insider.md'
+    - 'การปราบอินไซด์เดอร์': 'resurrection.md'
+    - 'ระดับขั้นอินไซด์เดอร์': 'classifications.md'
+  - 'การสร้างตัวละคร': 
+    # - 'การส่งตัวละคร': ''
+    # - 'ตัวละครจุนซุย': ''
+    # - 'ตัวละครอินไซด์เดอร์': ''
+    # - 'ระบบสเตตัส': 'stats.md'
+    - 'ระบบสกิล': 'skills.md'
+  - 'ระบบต่างๆ ภายในคอมมู':
+    - 'ระบบภารกิจ':
+      - 'ระบบภารกิจ': 'mission.md'
+      # - 'Assignment Mission': 'mission.md'
+      # - 'Player Mission': 'mission.md'
+      # - 'ระบบ Freeze': 'mission.md'
+    - 'ระบบไอเทม และร้านค้า': 'items.md'
+    # - 'ระบบต่อสู้': 'index.md'
+    - 'ระบบสนับสนุนอื่นๆ': 'systems.md'
+  # - 'แฟ้มข้อมูลพิเศษ':
+      # - 'แฟ้มข้อมูลที่เปิดเผยได้ #1: Insider': 'mission.md'
+      # - 'แฟ้มข้อมูลที่เปิดเผยได้ #2: องค์กรจุนซุย': 'mission.md'
+      # - 'คุจากุ และโคโจ': 'mission.md'
+      # - 'NPC': 'mission.md'
+      # - 'บันทึกลับของหน่วยข่าวกรอง': 'mission.md'
