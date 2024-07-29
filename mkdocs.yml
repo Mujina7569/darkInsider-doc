@@ -12,6 +12,7 @@ plugins:
   - git-authors
 
 theme:
+  # favicon: images/favicon.png
   name: material
   logo: 
   font:
@@ -84,7 +85,6 @@ nav:
   - 'TEST': 'blank.md'
 
 extra:
-  generator: true
   generator: false
   # social: 
   # - icon: fontawesome/brands/discord
