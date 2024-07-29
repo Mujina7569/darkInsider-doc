@@ -2,9 +2,6 @@
 title: อินไซด์เดอร์ | Insider
 description: 
 icon: material/emoticon-happy
-extra:
-  status:
-    Insider: fontawesome/duotone/ghost
 ---
 
 #「  อินไซด์เดอร์ | Insider  」
