@@ -1,6 +1,16 @@
 site_name: Dark Insider Role-play Community
 site_description: Dark Insider Role-play Community Documentation
 site_author: mujina7560
+
+# site_url: dark-insider.io
+
+plugins:
+  # - social
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-authors
+
 theme:
   name: material
   logo: 
@@ -15,7 +25,10 @@ theme:
     - navigation.tabs
     - navigation.instant
     - navigation.tracking
+    - navigation.footer
+    - announce.dismiss
     - toc.follow
+  custom_dir: overrides
 markdown_extensions:
   - toc:
       permalink: true
@@ -68,6 +81,7 @@ nav:
       # - 'คุโมะ': 'mission.md'
       # - 'NPC': 'mission.md'
       # - 'บันทึกลับของหน่วยข่าวกรอง': 'mission.md'
+  - 'TEST': 'blank.md'
 
 extra:
   generator: true
@@ -75,5 +89,9 @@ extra:
   # - icon: fontawesome/brands/discord
   #   link: #
 
+  status:
+    # <identifier>: <description>
+    # <identifier>: <description>
+
 copyright:
-  2024 Dark Insider เนื้อหาในเว็บเป็นเพียงเรื่องที่แต่งขึ้น เพื่อใช้สำหรับการโรลเพลย์เท่านั้น ไม่มีส่วนเกี่ยวข้องกับบุคคล หรือสถานที่จริงใดๆทั้งสิ้น
+  2024 Dark Insider 
