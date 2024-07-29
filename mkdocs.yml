@@ -101,5 +101,9 @@ extra:
     # <identifier>: <description>
     # <identifier>: <description>
 
+  analytics:
+    provider: google
+    property: G-5E6PZ6TFYY
+
 copyright:
   2024 Dark Insider 
