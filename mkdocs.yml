@@ -85,6 +85,7 @@ nav:
 
 extra:
   generator: true
+  generator: false
   # social: 
   # - icon: fontawesome/brands/discord
   #   link: #
