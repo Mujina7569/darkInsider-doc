@@ -1,3 +1,5 @@
+
+
 !!! quote ""
 
     ดาร์ค อินไซด์เดอร์ คือกลุ่มพลังงานจากคนที่ตายไปจากโลกใบนี้
@@ -21,6 +23,51 @@
 
     *หากต้องการเนื้อเรื่องพิเศษสำหรับที่ต้องอ้างอิงองค์กรหรืออินไซเดอร์ โปรดปรึกษา หรือสอบถามกับพ่องานโดยตรง
 
+<div class="grid cards" markdown>
+
+- :fontawesome-scroll: __กฏการต่อสู้__ for content and structure
+- :fontawesome-brands-js: __ระบบสเตตัส__ for interactivity
+- :fontawesome-brands-internet-explorer: __ระบบสกิล__ ... huh?
+- :fontawesome-brands-css3: __ระบบภารกิจ__ for text running out of boxes
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+
+    ---
+
+    Install [`mkdocs-material`](#) with [`pip`](#) and get up
+    and running in minutes
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
+</div>
 
 ## Commands
 
