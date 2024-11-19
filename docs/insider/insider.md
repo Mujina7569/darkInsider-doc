@@ -7,7 +7,7 @@ icon: material/emoticon-happy
 #「  อินไซด์เดอร์ | Insider  」
 
 <figure markdown>
-  ![Insider](imgs/AssassinBackGold.png){ height="300" }
+  ![Insider](imgs/insider.png){ width="500" }
 </figure>
 
 !!! quote ""
