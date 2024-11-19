@@ -10,6 +10,15 @@ plugins:
   # - git-revision-date-localized:
   #     enable_creation_date: true
   # - git-authors
+  - blog:
+      enabled: true
+      blog_dir: blog
+      post_dir: "{blog}/articles"
+      post_url_format: "{categories}/{slug}"
+      post_readtime: true
+      categories: true
+      authors: true
+      authors_profiles: true
 
 theme:
   # favicon: images/favicon.png
