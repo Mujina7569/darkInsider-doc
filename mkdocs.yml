@@ -7,9 +7,9 @@ site_author: mujina7560
 plugins:
   # - social
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - git-authors
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  # - git-authors
 
 theme:
   # favicon: images/favicon.png
@@ -23,12 +23,17 @@ theme:
     primary: black
     accent: deep purple
   features:
+    - announce.dismiss
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
-    - navigation.footer
-    - announce.dismiss
+    # - navigation.footer
+    - navigation.path
+    - navigation.indexes
     - toc.follow
+    - toc.integrate
+    - navigation.top
   custom_dir: overrides
 markdown_extensions:
   - toc:
@@ -42,6 +47,8 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
