@@ -97,6 +97,9 @@ nav:
       # - 'บันทึกลับของหน่วยข่าวกรอง': 'mission.md'
   - 'blank': 'blank.md'
   - 'test': 'test.md'
+  - Blog:
+    - blog/index.md
+    # - blog/authors.md
 
 extra:
   generator: false
