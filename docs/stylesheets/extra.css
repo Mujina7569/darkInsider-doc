@@ -1,0 +1,23 @@
+.npcs {
+    border: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .npcs td {
+    border: none;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+    text-align: center;
+    vertical-align: top
+  }
+  
+  .npcs th {
+    border: none;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+  }

@@ -2,6 +2,9 @@ site_name: Dark Insider Role-play Community
 site_description: Dark Insider Role-play Community Documentation
 site_author: mujina7560
 
+extra_css:
+  - stylesheets/extra.css
+
 # site_url: dark-insider.io
 
 plugins:
