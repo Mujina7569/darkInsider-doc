@@ -5,10 +5,13 @@ site_author: mujina7569
 extra_css:
   - stylesheets/extra.css
 
-# site_url: dark-insider.io
+site_url: https://dark-insider.vercel.app
 
 plugins:
-  # - social
+  # - social:
+  #     cards_layout_dir: layouts
+  #     cards_layout: custom
+  #     debug: true
   - search
   # - git-revision-date-localized:
   #     enable_creation_date: true
@@ -125,21 +128,20 @@ extra:
 
   analytics:
     provider: google
-    property: G-5E6PZ6TFYY
+    property: !ENV ANALYTICS_KEY
     feedback:
-      title: Was this page helpful?
+      title: หน้านี้ให้ข้อมูลที่ต้องการรึเปล่า?
       ratings:
         - icon: material/emoticon-happy-outline
-          name: This page was helpful
+          name: เยี่ยมเลย
           data: 1
           note: >-
             Thanks for your feedback!
         - icon: material/emoticon-sad-outline
-          name: This page could be improved
+          name: ไม่มีข้อมูลที่ต้องการ
           data: 0
           note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+            สามารถแจ้งข้อมูลไม่ครบ หรือขาดได้ที่ Discord: mujina7569
 
 copyright:
   2024 Dark Insider 
