@@ -1,5 +1,29 @@
 # Formatting
 
+## Heading
+
+# This is an H1
+
+## This is an H2
+
+###### This is an H6
+
+## Text Formatting
+
+- **Bold**
+- *Italic*
+- _Underline_
+- ~~Strikethrough~~
+- ++ctrl+alt+del++
+- ==Highlighted==
+- ~sub~
+- ^sup^
+
+## Critic Markup
+- H~2~O
+- A^T^A
+
+### Highlighting text
 - ^^This was inserted (underline)^^
 - ~~This was deleted (strikethrough)~~
 - {--deleted--} 
@@ -14,10 +38,6 @@ Formatting can also be applied to blocks by putting the opening and closing
 tags on separate lines and adding new lines between the tags and the content.
 
 ==}
-
-## Keyboard keys
-
-++ctrl+alt+del++
 
 ---
 
@@ -70,7 +90,7 @@ tags on separate lines and adding new lines between the tags and the content.
 
 ---
 
-# Tooltips
+## Tooltips
 
 - Link with tooltip, inline syntax [Hover me](https://example.com "I'm a tooltip!")
 
@@ -83,7 +103,7 @@ tags on separate lines and adding new lines between the tags and the content.
 
 ---
 
-# Admonitions
+## Admonitions
 
 !!! note
 
