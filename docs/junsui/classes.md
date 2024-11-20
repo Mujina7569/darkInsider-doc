@@ -55,7 +55,7 @@ title: คลาส
 === "ไลออน (Lion)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\01_lion.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -65,23 +65,10 @@ title: คลาส
     * ใช้อาวุธจำพวกอาวุธที่ดูคล่องตัว เคลื่อนไหวสะดวก และโจมตีระยะสั้น เช่น ดาบ หอก มีด มีดสั้น สนับมือ กรงเล็บ แส้
     * สำหรับในขั้นต้น ไลออนจะยังไม่มีสกิลหรือความสามารถพิเศษ
 
-=== "ทากะ (Taka)"
-
-    <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
-      <figcaption>Image caption</figcaption>
-    </figure>
-
-    > ค่าสเตตัสพิเศษ: Agi +10% | Dex +40%
-
-    * ถนัดการต่อสู้ระยะไกล มีประสาทสัมผัสที่แม่นยำ สามารถรับรู้สถานการณ์รอบตัวที่เกิดขึ้นได้อย่างกว้างขวางและตื่นตัวกับสถานการณ์รอบ ๆ ตลอดเวลาเพื่อตั้งรับและโจมตีในเวลาเดียวกัน มองเห็นและอ่านเกมขาดอยู่เสมอ ดั่งเหยี่ยวที่โบยบินบนฟากฟ้า และทอดสายตามองสนามรบอย่างชัดแจ้ง
-    * ใช้อาวุธจำพวกอาวุธประเภทโจมตีระยะไกล/กลาง เช่น ปืน ธนู หน้าไม้
-    * สำหรับในขั้นต้น ทากะจะยังไม่มีสกิลหรือความสามารถพิเศษ
-
 === "ไซ (Sai)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\02_sai.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -91,10 +78,23 @@ title: คลาส
     * มีอาวุธจำพวกอาวุธที่น้ำหนักมาก เช่น ค้อน ง้าว ทวน เคียว
     * สำหรับในขั้นต้น ไซจะยังไม่มีสกิลหรือความสามารถพิเศษ
 
+=== "ทากะ (Taka)"
+
+    <figure markdown="span">
+      ![Image title](\imgs\Class\03_taka.png){ width="300" }
+      <figcaption>Image caption</figcaption>
+    </figure>
+
+    > ค่าสเตตัสพิเศษ: Agi +10% | Dex +40%
+
+    * ถนัดการต่อสู้ระยะไกล มีประสาทสัมผัสที่แม่นยำ สามารถรับรู้สถานการณ์รอบตัวที่เกิดขึ้นได้อย่างกว้างขวางและตื่นตัวกับสถานการณ์รอบ ๆ ตลอดเวลาเพื่อตั้งรับและโจมตีในเวลาเดียวกัน มองเห็นและอ่านเกมขาดอยู่เสมอ ดั่งเหยี่ยวที่โบยบินบนฟากฟ้า และทอดสายตามองสนามรบอย่างชัดแจ้ง
+    * ใช้อาวุธจำพวกอาวุธประเภทโจมตีระยะไกล/กลาง เช่น ปืน ธนู หน้าไม้
+    * สำหรับในขั้นต้น ทากะจะยังไม่มีสกิลหรือความสามารถพิเศษ
+
 === "อิรุกะ (Iruka)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\04_iruka.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -107,7 +107,7 @@ title: คลาส
 === "เฮบิ (Hebi)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\05_hebi.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -124,7 +124,7 @@ title: คลาส
 === "โคโจ (Kochou)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\07_koujou.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -144,7 +144,7 @@ title: คลาส
 === "คุจากุ (Kujaku)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\06_kujaku.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
@@ -162,7 +162,7 @@ title: คลาส
 === "คุโมะ (Kumo)"
 
     <figure markdown="span">
-      ![Image title](https://dummyimage.com/600x400/){ width="300" }
+      ![Image title](\imgs\Class\08_kumo.png){ width="300" }
       <figcaption>Image caption</figcaption>
     </figure>
 
