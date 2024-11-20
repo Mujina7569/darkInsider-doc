@@ -91,6 +91,7 @@ nav:
     - 'lore\org-info.md' # องค์กร/กฏขององค์กร/สวัสดิการ/ฝ่ายสนับสนุน
     - 'ฝ่ายสนับสนุน': 'lore\other-dep.md' #  
     - 'สวัสดิการ': 'lore\place.md'
+    - 'NPC': 'lore\NPCs.md'
   - 'จุนซุย':
     - 'เกี่ยวกับจุนซุย': 'junsui.md'
     - 'ไมนด์': 'mind.md'
