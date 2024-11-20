@@ -23,25 +23,7 @@
 
 ---
 
-<div class="grid cards" markdown>
-
-- :material-sword-cross: __กฏการต่อสู้__ for content and structure
-- :fontawesome-solid-person-circle-exclamation: __ระบบสเตตัส__ for interactivity
-- :fontawesome-solid-scroll-torah: __ระบบสกิล__ ... huh?
-- :simple-fontawesome: __ระบบภารกิจ__ for text running out of boxes
-
-</div>
-
-[ส่งตัวละครจุนซุย](#){ .md-button .md-button }
-[ส่งตัวละครอินไซด์เดอร์](#){ .md-button .md-button }
-[เช็คสถานะตัวละคร](#){ .md-button .md-button }
-
-[ส่งรายภารกิจ](#){ .md-button .md-button }
-[ยื่นแจ้งเลื่อนขั้น](#){ .md-button .md-button }
-[เช็คสถานะภารกิจ/เลื่อนขั้น](#){ .md-button .md-button }
-[กระดานคะแนน](#){ .md-button .md-button }
-
----
+## ข้อมูลคอมมู
 
 <div class="grid cards" markdown>
 
@@ -51,33 +33,55 @@
 
     กลุ่มคนที่เสียชีวิตก่อนหมดอายุขัย อาจเกิดจากอุบัติเหตุ ถูกฆาตกรรม หรือการตายที่ไม่เป็นธรรมชาติ โดยมีอินไซเดอร์เข้ามาเกี่ยวข้องในการตาย
 
-    [แฟ้มข้อมูลจุนซุย :octicons-arrow-right-24:](#)
+    [แฟ้มข้อมูลจุนซุย :octicons-arrow-right-24:](junsui.md)
 
--   :fontawesome-solid-skull-crossbones:{ .lg .middle } __อินไซด์เดอร์__
+-   :material-emoticon-devil:{ .lg .middle } __อินไซด์เดอร์__
 
     ---
 
     สิ่งมีชีวิตที่เกิดขึ้นจากพลังงานด้านลบของมนุษย์ รูปร่างคล้ายมนุษย์ ไร้ดวงตาแต่ประสาทสัมผัสไว มันจะแฝงตัวอยู่ร่างมนุษย์
 
-    [แฟ้มข้อมูลอินไซด์เดอร์ :octicons-arrow-right-24:](#)
+    [แฟ้มข้อมูลอินไซด์เดอร์ :octicons-arrow-right-24:](insider.md)
 
 -   :material-folder-file:{ .lg .middle } __แฟ้มข้อมูลพิเศษ__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et tempus eros.
 
     [เปิดแฟ้มข้อมูล :octicons-arrow-right-24:](#)
 
--   :material-account:{ .lg .middle } __บุคลากรภายในองค์กร__
+-   :fontawesome-solid-people-group:{ .lg .middle } __บุคลากรภายในองค์กร__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et tempus eros.
 
     [ทะเบียนรายชื่อ :octicons-arrow-right-24:](#)
 
 </div>
+
+---
+
+## ระบบภายในคอมมู
+
+<div class="grid cards" markdown>
+
+- :material-sword-cross: __กฏการต่อสู้__ Lorem ipsum
+- :fontawesome-solid-person-circle-exclamation: __ระบบสเตตัส__ Lorem ipsum
+- :fontawesome-solid-scroll-torah: __ระบบสกิล__ Lorem ipsum
+- :simple-fontawesome: __ระบบภารกิจ__ Lorem ipsum
+
+</div>
+
+<!-- [ส่งตัวละครจุนซุย](#){ .md-button .md-button }
+[ส่งตัวละครอินไซด์เดอร์](#){ .md-button .md-button }
+[เช็คสถานะตัวละคร](#){ .md-button .md-button }
+
+[ส่งรายภารกิจ](#){ .md-button .md-button }
+[ยื่นแจ้งเลื่อนขั้น](#){ .md-button .md-button }
+[เช็คสถานะภารกิจ/เลื่อนขั้น](#){ .md-button .md-button }
+[กระดานคะแนน](#){ .md-button .md-button } -->
 
 ---
 
