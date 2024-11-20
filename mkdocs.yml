@@ -96,6 +96,7 @@ nav:
     - 'junsui\junsui.md' # 
     - 'ไมนด์': 'junsui\mind.md' # ความสามารถ/การเรียกใช้
     - 'พัฒนาการไมนด์': 'junsui\mind-upgrade.md' # พัฒนาการ
+    - 'เกร็ดข้อมูลอื่น ๆ ของไมนด์': 'junsui\mind-lore.md' # เกร็ดอื่นๆ
     - 'คลาสต่างๆ': 'junsui\classes.md' # 
     - 'เขตการควบคุม': 'departments.md'
     - 'ระบบเลื่อนขั้นจุนซุย': 'ranks.md'
