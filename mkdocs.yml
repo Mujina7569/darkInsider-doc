@@ -79,6 +79,8 @@ nav:
   - 'Dark Insider': 'index.md'
   - 'กฏการอยู่ร่วมกัน': 'rules.md'
   - 'เนื้อเรื่อง': 'lore\story.md'
+  - 'เริ่มเล่น': 
+    - 'howto\roles.md' # แนวทางการเล่น
   - 'จุนซุย':
     - 'เกี่ยวกับจุนซุย': 'junsui.md'
     - 'ไมนด์': 'mind.md'
