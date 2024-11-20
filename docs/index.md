@@ -1,7 +1,7 @@
 # 
 
 <figure markdown="span">
-  ![Image title](https://dummyimage.com/600x400/){ width="600" }
+  ![Image title](\imgs\Logo\di03.png){ width="800" }
   <!-- <figcaption>Image caption</figcaption> -->
 </figure>
 
