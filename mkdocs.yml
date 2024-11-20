@@ -78,6 +78,7 @@ markdown_extensions:
 nav:
   - 'Dark Insider': 'index.md'
   - 'กฏการอยู่ร่วมกัน': 'rules.md'
+  - 'เนื้อเรื่อง': 'lore\story.md'
   - 'จุนซุย':
     - 'เกี่ยวกับจุนซุย': 'junsui.md'
     - 'ไมนด์': 'mind.md'
