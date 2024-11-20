@@ -56,7 +56,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\01_lion.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Str +20% | Dex +15% | Agi +15%
@@ -69,7 +69,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\02_sai.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Str +40% | Vit +20%
@@ -82,7 +82,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\03_taka.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Agi +10% | Dex +40%
@@ -95,7 +95,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\04_iruka.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Agi +30% | Vit +20%
@@ -108,7 +108,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\05_hebi.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Agi +10% | Int +15%
@@ -125,7 +125,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\07_koujou.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Vit +15% | Int +20%
@@ -145,7 +145,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\06_kujaku.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Dex +10% | Int +30%
@@ -163,7 +163,7 @@ title: คลาส
 
     <figure markdown="span">
       ![Image title](\imgs\Class\08_kumo.png){ width="300" }
-      <figcaption>Image caption</figcaption>
+      <figcaption></figcaption>
     </figure>
 
     > ค่าสเตตัสพิเศษ: Vit +50%
