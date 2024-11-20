@@ -7,8 +7,8 @@ extra:
 #「  จุนซุย | Junsui  」
 
 <figure markdown="span">
-  ![Image title](\imgs\NPC\district_chief.png){ width="800" }
-  <figcaption>หัวหน้าแต่ละเขต</figcaption>
+  ![Image title](\imgs\junsui.jpg){ width="800" }
+  <figcaption><small>ภาพโดย NoEy Bandita</small></figcaption>
 </figure>
 
 !!! quote ""
