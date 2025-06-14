@@ -2,6 +2,6 @@ authors:
   system:
     name: System        # Author name
     description: no data # Author description
-    avatar: https://cdn.discordapp.com/attachments/1245406982014369842/1245406985512292484/Untitled-1.jpg?ex=66f0e863&is=66ef96e3&hm=9a65867d94ecb751e181871c2930a67b2c46a714052ad04e2d3b671c5036be3b&         # Author avatar
+    avatar: docs\imgs\Logo\thumbnail_03.jpg         # Author avatar
     slug: system           # Author profile slug
     # url: url            # Author website URL
